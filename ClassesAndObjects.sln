@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2043
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Address", "Address\Address.csproj", "{AF2A0E58-177E-4228-B62E-B63BF3CF1BCE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectanglesCalculator", "RectanglesCalculator\RectanglesCalculator.csproj", "{FA8898C1-0988-485A-86CC-747B5E0AA001}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,14 @@ Global
 		{AF2A0E58-177E-4228-B62E-B63BF3CF1BCE}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AF2A0E58-177E-4228-B62E-B63BF3CF1BCE}.Release|x86.ActiveCfg = Release|Any CPU
 		{AF2A0E58-177E-4228-B62E-B63BF3CF1BCE}.Release|x86.Build.0 = Release|Any CPU
+		{FA8898C1-0988-485A-86CC-747B5E0AA001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA8898C1-0988-485A-86CC-747B5E0AA001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA8898C1-0988-485A-86CC-747B5E0AA001}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FA8898C1-0988-485A-86CC-747B5E0AA001}.Debug|x86.Build.0 = Debug|Any CPU
+		{FA8898C1-0988-485A-86CC-747B5E0AA001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA8898C1-0988-485A-86CC-747B5E0AA001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA8898C1-0988-485A-86CC-747B5E0AA001}.Release|x86.ActiveCfg = Release|Any CPU
+		{FA8898C1-0988-485A-86CC-747B5E0AA001}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
