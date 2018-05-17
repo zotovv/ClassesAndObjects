@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form", "Form\Form.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exchange", "Exchange\Exchange.csproj", "{877FC9A4-2328-4519-95F1-2792BF693347}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salary", "Salery\Salary.csproj", "{0D0BA256-C2A0-4A6A-9F6F-0C341E1B47B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,14 @@ Global
 		{877FC9A4-2328-4519-95F1-2792BF693347}.Release|Any CPU.Build.0 = Release|Any CPU
 		{877FC9A4-2328-4519-95F1-2792BF693347}.Release|x86.ActiveCfg = Release|Any CPU
 		{877FC9A4-2328-4519-95F1-2792BF693347}.Release|x86.Build.0 = Release|Any CPU
+		{0D0BA256-C2A0-4A6A-9F6F-0C341E1B47B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D0BA256-C2A0-4A6A-9F6F-0C341E1B47B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D0BA256-C2A0-4A6A-9F6F-0C341E1B47B0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0D0BA256-C2A0-4A6A-9F6F-0C341E1B47B0}.Debug|x86.Build.0 = Debug|Any CPU
+		{0D0BA256-C2A0-4A6A-9F6F-0C341E1B47B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D0BA256-C2A0-4A6A-9F6F-0C341E1B47B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D0BA256-C2A0-4A6A-9F6F-0C341E1B47B0}.Release|x86.ActiveCfg = Release|Any CPU
+		{0D0BA256-C2A0-4A6A-9F6F-0C341E1B47B0}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
